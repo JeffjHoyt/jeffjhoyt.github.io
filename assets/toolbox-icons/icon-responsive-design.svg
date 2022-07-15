@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="69" viewBox="0 0 86 69">
+  <defs>
+    <clipPath id="clip-icon-responsive-design">
+      <rect width="86" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="icon-responsive-design" clip-path="url(#clip-icon-responsive-design)">
+    <path id="Icon_material-computer" data-name="Icon material-computer" d="M39.066,33.346a3.9,3.9,0,0,0,3.887-3.907l.02-19.533A3.918,3.918,0,0,0,39.066,6H7.813A3.918,3.918,0,0,0,3.907,9.907V29.44a3.918,3.918,0,0,0,3.907,3.907H0v3.907H46.879V33.346ZM7.813,9.907H39.066V29.44H7.813Z" transform="translate(2 -5)"/>
+    <path id="Icon_awesome-tablet-alt" data-name="Icon awesome-tablet-alt" d="M23.645,0H2.837A2.838,2.838,0,0,0,0,2.837V27.428a2.838,2.838,0,0,0,2.837,2.837H23.645a2.838,2.838,0,0,0,2.837-2.837V2.837A2.838,2.838,0,0,0,23.645,0Zm-10.4,28.374a1.892,1.892,0,1,1,1.892-1.892A1.89,1.89,0,0,1,13.241,28.374Zm10.4-6.384a.711.711,0,0,1-.709.709H3.547a.711.711,0,0,1-.709-.709V3.547a.711.711,0,0,1,.709-.709H22.936a.711.711,0,0,1,.709.709Z" transform="translate(15.397 38.734)"/>
+    <path id="Icon_material-settings-cell" data-name="Icon material-settings-cell" d="M10.5,36h3V33h-3Zm6,0h3V33h-3Zm6,0h3V33h-3ZM24,.015,12,0A3.009,3.009,0,0,0,9,3V27a3.009,3.009,0,0,0,3,3H24a3.009,3.009,0,0,0,3-3V3A3,3,0,0,0,24,.015ZM24,24H12V6H24Z" transform="translate(49.2 17.867)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="69" viewBox="0 0 86 69">
+  <defs>
+    <clipPath id="clip-Icon-css">
+      <rect width="86" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-css" clip-path="url(#clip-Icon-css)">
+    <path id="Icon_awesome-css3" data-name="Icon awesome-css3" d="M73.929,2.25,64.071,58.929,29.679,71.25,0,58.929l3.019-14.6H15.648l-1.232,6.253,17.928,6.838L53,50.581l2.9-14.955H4.544L7.008,23H58.4l1.617-8.117H8.671L11.182,2.25H73.929Z" transform="translate(6.036 -2.25)"/>
+  </g>
+</svg>

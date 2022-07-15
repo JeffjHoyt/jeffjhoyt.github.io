@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="69" viewBox="0 0 86 69">
+  <defs>
+    <clipPath id="clip-Icon-bootstrap">
+      <rect width="86" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-bootstrap" clip-path="url(#clip-Icon-bootstrap)">
+    <path id="Icon_awesome-bootstrap" data-name="Icon awesome-bootstrap" d="M45.019,45.364c0,6.532-6.118,6.381-6.764,6.381H25.8V39.163H38.255c6.555,0,6.764,4.913,6.764,6.2ZM37.3,34.1c.1,0,5.92.154,5.92-5.592,0-2.39-.541-5.525-5.92-5.525H25.8V34.1ZM69,13.751v46a11.534,11.534,0,0,1-11.5,11.5h-46A11.534,11.534,0,0,1,0,59.749v-46A11.534,11.534,0,0,1,11.5,2.25h46A11.534,11.534,0,0,1,69,13.751ZM52.066,46.278c0-3.322-1.024-8.978-7.555-10.373v-.112a8.824,8.824,0,0,0,5.751-8.57c0-1.078.308-9.977-11.952-9.977H18.75V57.495c19.75,0,21.542.259,25.2-.879,2.189-.681,8.118-2.769,8.118-10.338Z" transform="translate(9 -2.25)"/>
+  </g>
+</svg>

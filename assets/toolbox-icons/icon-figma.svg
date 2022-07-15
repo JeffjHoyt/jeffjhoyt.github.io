@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="69" viewBox="0 0 86 69">
+  <defs>
+    <clipPath id="clip-icon-figma">
+      <rect width="86" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="icon-figma" clip-path="url(#clip-icon-figma)">
+    <g id="Icon_feather-figma" data-name="Icon feather-figma" transform="translate(14.5 0.139)">
+      <path id="Path_1" data-name="Path 1" d="M7.5,13.485A10.485,10.485,0,0,1,17.985,3H28.469V23.969H17.985A10.485,10.485,0,0,1,7.5,13.485Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M18,3H28.485a10.485,10.485,0,0,1,0,20.969H18Z" transform="translate(10.469 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3" data-name="Path 3" d="M18,23.985A10.485,10.485,0,1,1,28.485,34.469,10.485,10.485,0,0,1,18,23.985Z" transform="translate(10.469 10.469)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_4" data-name="Path 4" d="M7.5,34.485A10.485,10.485,0,0,1,17.985,24H28.469V34.485a10.485,10.485,0,0,1-20.969,0Z" transform="translate(0 20.939)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_5" data-name="Path 5" d="M7.5,23.985A10.485,10.485,0,0,1,17.985,13.5H28.469V34.469H17.985A10.485,10.485,0,0,1,7.5,23.985Z" transform="translate(0 10.469)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

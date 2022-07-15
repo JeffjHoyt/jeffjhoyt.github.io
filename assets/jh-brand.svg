@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="233" viewBox="0 0 262 233">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-jh-brand);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 259px;
+        font-family: MarkerFelt-Thin, Marker Felt;
+        font-weight: 200;
+      }
+    </style>
+    <clipPath id="clip-jh-brand">
+      <rect width="262" height="233"/>
+    </clipPath>
+  </defs>
+  <g id="jh-brand" class="cls-1">
+    <text id="JH" class="cls-2" transform="translate(4 220)"><tspan x="0" y="0">JH</tspan></text>
+  </g>
+</svg>

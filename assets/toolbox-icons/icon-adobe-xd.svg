@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="69" viewBox="0 0 86 69">
+  <defs>
+    <clipPath id="clip-icon-adobe-xd">
+      <rect width="86" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="icon-adobe-xd" clip-path="url(#clip-icon-adobe-xd)">
+    <path id="Icon_awesome-adobe" data-name="Icon awesome-adobe" d="M53.891,4.5H84.6v69Zm-21.383,0H1.8v69ZM43.2,30.034,62.516,73.5H49.4L43.883,59.7H29.741Z" transform="translate(0.2 -4.5)"/>
+  </g>
+</svg>
