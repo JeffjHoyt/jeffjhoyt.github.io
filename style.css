@@ -190,7 +190,7 @@
      margin: 0;
      padding: 8px 15px;
      -webkit-transform: translate(-50%, -50%);
-     transform: translate(-50%, -50%);
+     transform: translate(-50%, -1%);
      list-style: none;
    background-color: rgba(0, 0, 0, 0.911);
    border-radius: 10px;
