@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="958" height="447" viewBox="0 0 958 447">
+  <defs>
+    <clipPath id="clip-Project-background">
+      <rect width="958" height="447"/>
+    </clipPath>
+  </defs>
+  <g id="Project-background" clip-path="url(#clip-Project-background)">
+    <rect width="958" height="447" fill="#fff"/>
+    <path id="pattern-background-desktop" d="M0,349.974q218.371,174.053,482.57,0t476.608,0V0H0Z" transform="translate(0 -160)" fill="#d6e1ff" fill-rule="evenodd"/>
+    <path id="pattern-background-desktop-2" data-name="pattern-background-desktop" d="M0,349.974q218.371,174.053,482.57,0t476.608,0V0H0Z" transform="translate(959.178 447) rotate(180)" fill="#d6e1ff" fill-rule="evenodd" opacity="0.752"/>
+  </g>
+</svg>

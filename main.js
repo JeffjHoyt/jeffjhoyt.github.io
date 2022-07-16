@@ -10,7 +10,7 @@ function newTabTaskmanager() {
 
 function newTabOrder() {
     window.open(
-        "./projects/order-summary-component-main-2/index.html", "_blank");
+        "./projects/order-summary/index.html", "_blank");
 }
 
 function newTabBudget() {
