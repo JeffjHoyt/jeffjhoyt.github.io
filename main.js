@@ -33,6 +33,11 @@ function NewTabHackerrank() {
     "https://www.hackerrank.com/jeffjhoyt", "_blank");
   };
 
+  function newChoreDoorTab() {
+	window.open(
+	  "./projects/choredoor/index.html", "_blank");
+	};
+
 
 
 

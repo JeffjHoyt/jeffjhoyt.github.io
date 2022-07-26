@@ -1,0 +1,11 @@
+.angela {
+    background-image: url("../../assets/Ang-bg-final.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    width: auto;
+}
+
+* {
+    background-image: url("../../assets/white-textured-bg.svg");
+}
