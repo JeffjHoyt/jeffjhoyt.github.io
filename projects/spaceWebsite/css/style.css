@@ -1,0 +1,74 @@
+body {
+    width: 100vh;
+    overflow-y: hidden;
+}
+
+#background {
+    background-image: url("../indexAssets/Space-home-bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    background-position: 65% 35%;
+}
+
+#navbar-top {
+    margin-bottom: 70px;
+}
+
+#navbarNav {
+    background-image: url("../indexAssets/guzzyglassbackground.svg");
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 45vh;
+    padding-left: 11.4%;
+    padding-right: 11.4%;
+    padding-bottom: 16.1%;
+}
+
+#main-info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background-color: transparent;
+    width: 523.5px;
+    height: fit-content;
+}
+
+#top-info {
+    display: flex;
+    flex-direction: row;
+    width: 523px;
+    height: fit-content;
+}
+
+#mid-info {
+    display: flex;
+    flex-direction: row;
+    width: 444;
+    height: fit-content;
+}
+
+#bot-info {
+    display: flex;
+    flex-direction: row;
+    width: 444px;
+    height: fit-content;
+}
+
+
+
+#main-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 274px;
+    height: 274px;
+    border-radius: 180px;
+}

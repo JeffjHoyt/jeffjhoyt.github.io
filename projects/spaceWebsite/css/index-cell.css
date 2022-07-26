@@ -1,0 +1,167 @@
+@media only screen and (max-width: 581px) {
+
+    body {
+        width: 100vh;
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+    
+    #background {
+        background-image: url("../indexAssets/Cell-bg.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: auto;
+        background-position:  bottom;
+    }
+    
+    #navbar-top {
+        margin-bottom: 70px;
+    }
+
+    .black-dropdown {
+        background-color: rgb(39, 39, 39);
+    }
+    
+    #navbarNav {
+        background-image: url("../indexAssets/guzzyglassbackground.svg");
+    }
+    
+    #main {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 15vh;
+        padding-left: 11.4%;
+        padding-right: 11.4%;
+        padding-bottom: 7%;
+    }
+    
+    #main-info {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        background-color: transparent;
+        width: 327px;
+        height: fit-content;
+        margin-bottom: 70%;
+    
+    }
+    
+    #top-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        height: fit-content;
+    }
+    
+    #mid-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        height: fit-content;
+    }
+    
+    #bot-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        height: fit-content;
+    }
+    
+    
+    
+    #main-button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(255, 255, 255);
+        width: 150px;
+        height: 150px;
+        border-radius: 180px;
+    }
+
+    .heading span{
+        font-family: 'Bellefair', serif;
+        font-size: 80px !important;
+    
+    }
+    
+    .heading-two span {
+        font-family: 'Bellefair', serif;
+        font-size: 100px;
+    
+    }
+    
+    .heading-three span {
+        font-family: 'Bellefair', serif;
+        font-size: 56px;
+    
+    }
+    
+    .heading-four span {
+        font-family: 'Bellefair', serif;
+        font-size: 32px;
+    
+    }
+    
+    .heading-five span {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 16px !important;
+    
+
+    }
+    
+    /* --------------   SUBHEADING 1 -----------------------*/
+    
+    .subheading-one p {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 28px;
+        color: #D0D6F9;
+    }
+    
+    /* --------------   SUBHEADING 2 -----------------------*/
+    
+    .subheading-two p {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 14px;
+        color: #D0D6F9;
+        letter-spacing: 2.35px;
+    }
+    
+    /* --------------   SUBHEADING 3 -----------------------*/
+    
+    .subheading-three p {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 16px;
+        letter-spacing: 2.7px;
+    }
+    
+    
+    /* --------------   BODY TEXT  -----------------------*/
+    
+    
+    
+    .p span{
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 15px !important;
+    }
+    
+    .white {
+        color: #FFFFFF;
+    }
+    
+    .blue {
+        color: #D0D6F9;
+    }
+    
+    .black {
+        color: #0b0d17;
+    }
+    
+
+}
