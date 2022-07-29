@@ -38,6 +38,11 @@ function NewTabHackerrank() {
 	  "./projects/choredoor/index.html", "_blank");
 	};
 
+function newGoogleTab() {
+	window.open(
+	  "./projects/googleClone/index.html", "_blank");
+	};
+
 
 
 
