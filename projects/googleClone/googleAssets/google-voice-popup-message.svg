@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="38" viewBox="0 0 116 38">
+  <g id="Group_2" data-name="Group 2" transform="translate(0 -51)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="116" height="27" transform="translate(0 62)" fill="#363636"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M6.5,0,13,13H0Z" transform="translate(88 51)" fill="#363636"/>
+    <text id="Search_by_voice" data-name="Search by voice" transform="translate(4 81)" fill="#fff" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Search by voice</tspan></text>
+  </g>
+</svg>

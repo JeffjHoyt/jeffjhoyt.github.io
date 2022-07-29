@@ -1,0 +1,44 @@
+#planets-bg {
+    background-image: url("./planetAssets/planets-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#navbarNav {
+    background-image: url("../indexAssets/guzzyglassbackground.svg");
+}
+
+.planets-container {
+    margin-top: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 11%;
+    padding-right: 11%;
+    justify-content: space-between;
+}
+
+.pick-your-destination {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.moon-image {
+    background-image: url("./planetAssets/moonz@2x.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 445px;
+    width: 445px;
+}
+
+.destination-and-info-container {
+
+    width: 50%;
+    height: 350px;
+}
+
+.planet-border {
+    width: 100%;
+    border: white 1px solid;
+}

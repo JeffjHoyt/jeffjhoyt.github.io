@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+#small-font {
+    font-size: 14px;
+}
+  
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 11px 22px;
+    align-items: center;
+  }
+  
+  .header a {
+    margin-right: 20px;
+    text-decoration: inherit;
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 15px;
+  }
+  
+  .header a:hover {
+    text-decoration: underline;
+  }
+  
+  .header__right {
+    display: flex;
+    align-items: center;
+    min-width: 13vw;
+    justify-content: space-between;
+  }
+  
+  .header__right .header__apps {
+    margin-right: 10px;
+  }
+  
+  /* Main Body */
+  
+  .mainBody {
+    flex: 1;
+    display: flex;
+    margin-top: 12%;
+    flex-direction: column;
+  }
+  
+  .mainBody img {
+    object-fit: contain;
+    height: 100px;
+  }
+  
+  /* search */
+  .search__input {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgray;
+    height: 40px;
+    padding: 10px 20px;
+    border-radius: 999px;
+    width: 75vw;
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width: 560px;
+  }
+  
+  .search__input input {
+    flex: 1;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height: 40px;
+  }
+
+  #mic-popup:hover > #google-voice-popup {
+      visibility: visible;
+      background-color: black;
+      cursor: pointer;
+  }
+
+  .search__input:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+  .search__input .material-icons {
+    color: gray;
+  }
+  
+  .search__buttons {
+
+    display: flex;
+    justify-content: center;
+  }
+
+  button:hover {
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+
+  
+  .search__buttons button {
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #f8f8f8;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  #popups-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+    height: 30px;
+
+    border-radius: 999px;
+    width: 75vw;
+    margin: 0 auto;
+    max-width: 560px;
+  }
+
+  #google-voice-popup {
+    display: none;
+    height: 100%;
+    width: 20%;
+    background-image: url("./googleAssets/google-voice-popup-message.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  #apps-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      height: 36px;
+      width: 36px;
+      text-align: center;
+      padding-left: 12px;
+      border-radius: 60px;
+      margin-right: 12px;
+  }
+
+  .signin {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 96px;
+      height: 36px;
+      background-color: #0f64f2 ;
+      color: white;
+      border-radius: 4px;
+
+  }
+
+  .signin:hover {
+      background-color: #4C8BF5;
+  }
+
+
+
