@@ -1,0 +1,7 @@
+#vaca-background {
+    background-image: url("../../assets/vaca=bg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 100vh;
+}

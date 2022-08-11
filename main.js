@@ -1,3 +1,19 @@
+const mainContent = document.getElementById('main-content');
+const loadingAnimation = document.getElementById('loading-animation');
+
+/* practice for adding animation when clicking on a  link
+
+function linkAnimation() {
+	mainContent.style.display = 'none';
+	window.addEventListener("load", function(){
+		setTimeout(() => {
+			loadingAnimation.innerHTML = 
+		}, 3000);
+	});
+
+	*/
+
+
 function newJammingTab() {
     window.open(
         "https://jeffjhoyt.github.io/jammming/", "_blank");
@@ -150,8 +166,3 @@ $(document).ready(function() {
 })(jQuery); 
 
 
-// Type script animation
-
-
-
-// end typescript animation
