@@ -2,6 +2,10 @@
     overflow-x: hidden;
 }
 
+#y-axis {
+    overflow-y: hidden;
+}
+
 #navbar-top {
     overflow-x: hidden;
 }
